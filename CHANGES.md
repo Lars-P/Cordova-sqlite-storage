@@ -1,6 +1,6 @@
 # Changes
 
-###### cordova-sqlite-storage-ext-core-common 2.0.1-dev
+###### cordova-sqlite-storage-ext-core-common 3.0.0
 
 - beforePluginInstall.js updates
   - use standard Promise
