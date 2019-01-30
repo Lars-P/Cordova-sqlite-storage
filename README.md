@@ -1,4 +1,4 @@
-# Cordova/PhoneGap sqlite ext common
+# Cross-platform SQLite storage ext-common plugin for Cordova/PhoneGap
 
 Native interface to sqlite in a Cordova/PhoneGap plugin for Android, iOS, macOS, and Windows 10 (UWP), with API similar to HTML5/[Web SQL API](http://www.w3.org/TR/webdatabase/).
 
@@ -6,11 +6,13 @@ License for Android and Windows versions: MIT or Apache 2.0
 
 License for iOS/macOS version: MIT only
 
-TBD NOTE: No Android Circle-CI/iOS Travis-CI for this version branch
+FUTURE TBD: Android Circle-CI/iOS Travis-CI working again for this plugin version
 
 ## About this version
 
-This is a common version the following extra features: REGEXP, BASE64
+This is the common plugin version which supports the most widely used features and serves as the basis for the other plugin versions.
+
+This plugin version uses a `before_plugin_install` hook to install sqlite3 library dependencies from `cordova-sqlite-ext-deps` via npm.
 
 <!-- END About this version -->
 
