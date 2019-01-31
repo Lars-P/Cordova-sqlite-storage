@@ -35,9 +35,9 @@
 
         <!-- XXX BROKEN TODO: -->
         <!-- Android-sqlite-connector [jar]: -->
-        <lib-file src="node_modules/cordova-sqlite-storage-dependencies/libs/sqlite-connector.jar" />
+        <lib-file src="node_modules/cordova-sqlite-ext-deps/libs/sqlite-connector.jar" />
         <!-- Android-sqlite-connector native driver [native libs in jar]: -->
-        <lib-file src="node_modules/cordova-sqlite-storage-dependencies/libs/sqlite-native-driver.jar" />
+        <lib-file src="node_modules/cordova-sqlite-ext-deps/libs/sqlite-native-driver.jar" />
     </platform>
 
     <!-- iOS -->
