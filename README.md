@@ -1,5 +1,7 @@
 # Cross-platform SQLite storage ext-common plugin for Cordova/PhoneGap
 
+XXX TODO: separate version branches for XXX and YYY (XXX for XXX, YYY for YYY)
+
 Native SQLite component with API based on HTML5/[Web SQL (DRAFT) API](http://www.w3.org/TR/webdatabase/) for the following platforms:
 - Android
 - iOS
