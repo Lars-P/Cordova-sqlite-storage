@@ -12,6 +12,10 @@ MIT or Apache 2.0
 
 MIT only
 
+based on Phonegap-SQLitePlugin by @davibe (Davide Bertola <dade@dadeb.it>) and @joenoon (Joe Noon <joenoon@gmail.com>)
+
+includes and uses PSPDFThreadSafeMutableDictionary (PSPDFThreadSafeMutableDictionary.m <https://gist.github.com/steipete/5928916>) MIT license by @steipete (<https://gist.github.com/steipete>)
+
 ## Windows version
 
 MIT or Apache 2.0
@@ -42,6 +46,6 @@ Unlicense (public domain)
 
 Based on <http://libb64.sourceforge.net/> by Chris Venter, public domain)
 
-### SQLite3
+## SQLite3
 
-public domain
+Public domain
