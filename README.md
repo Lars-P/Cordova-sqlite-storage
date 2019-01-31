@@ -1458,7 +1458,10 @@ cordova platform add ios
 
 ## Plugin installation sources
 
-- https://github.com/brodybits/cordova-sqlite-ext-common - latest version
+XXX TODO:
+
+- XXX
+- XXX
 
 <!-- END Plugin installation sources -->
 
